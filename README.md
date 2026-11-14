@@ -1,6 +1,6 @@
 # CampusPulse
 
-### Campus Communication, Connected.
+### Campus Communication, Connected
 
 CampusPulse is a campus notification platform designed to make communication between educational institutions and students more organized, accessible, and efficient.
 
